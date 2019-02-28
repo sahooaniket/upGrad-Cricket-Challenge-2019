@@ -211,17 +211,17 @@ Ranchi: Australia : Has not played.
 
 As per the analysis from plots 1 to 4
 -
-India will win the series by 3-2
+India will win the series by 4-1
 -
-Delhi: Australia
+Delhi: India - Has has more win percentage, almost same averages. Innings and toss dont play any part.
 -
-Hyderabad: India
+Hyderabad: India - Has significantly high average scores. Innings and toss dont play any part.
 -
-Mohali: Australia
+Mohali: Australia - Equal likely chance of toss and batting first. Good percentage of wins.
 -
-Nagpur: India
+Nagpur: India - Equal likely chance of toss and batting. Good average scores.
 -
-Ranchi: India
+Ranchi: India - India has better record has Australia is yet to play
 -
 
 As per the analysis from plots 5
