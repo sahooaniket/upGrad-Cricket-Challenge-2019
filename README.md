@@ -49,8 +49,77 @@ Seaborn plots are being used to provide a visualisation of the various data bein
   
 Analysis
 -
-The whole prediction for the games are based on simple EDA of various data and plots. No machine learning or prediction models have been used to reach at the results for teh prediction. Each prediction has been based solely on the data and the plots provided in the file stats/stats_2015. Even though the data had been collected starting from 2000 only data after year 2015 has been used to derive at the results because most of the players involved in the current series are new and any records beyond the past 3 years is not going to provide any insights into the current form of the team. Only for the ground stats the records have been used starting from 1800's.
+The whole prediction for the games are based on simple EDA of various data and plots. No machine learning or prediction models have been used to reach at the results for teh prediction. Each prediction has been based solely on the data and the plots provided in the file stats/stats_2015. Even though the data had been collected starting from 2000 only data after year 2010 has been used for getting the match results and data after 2015 has been used to derive the player predictions because most of the players involved in the current series are new and any records beyond the past 5 to 10 years is not going to provide any insights into the current form of the team or player. Only for the ground stats the records have been used starting from 1800's.
 
 Prediction
 -
-Please refer the file Stats/Stats_2015 (https://github.com/sahooaniket/upGrad-Cricket-Challenge-2019/blob/master/Stats/Stats_2015.pdf) for the various plots. Based on those plots below are the inferences being drawn and the final prediction being made
+Please refer the file Stats/Stats_2015 (https://github.com/sahooaniket/upGrad-Cricket-Challenge-2019/blob/master/Stats/Stats_2015.pdf) and Stats/Stats_2010 (https://github.com/sahooaniket/upGrad-Cricket-Challenge-2019/blob/master/Stats/Stats_2010.pdf) for the various plots. Based on those plots below are the inferences being drawn and the final prediction being made.
+
+Fig 1.1 Innings Stats
+-
+India: Prefers to bat 2nd (38/51)
+Australia: Even share of batting 1st and 2nd (39/36)
+Inference: India likes to chase
+
+Fig 1.2 Toss Stats
+-
+India: Equal chance of winning a toss (42/47)
+Australia: Higher probability of winning a toss (43/32)
+Inference: Australia's chances of winning toss is high
+
+Fig 2.1  Win Percentage (against all teams)
+-
+India: Winning percentage has been on rise (51% to 78%)
+Australia: Winning percentage is deteriorating (83% to 15%)
+Inference: Currently, India's form is on rise and Australia's on fall
+
+Fig 2.2  Win Percentage (against each other)
+-
+Australia: Winning percentage is deteriorating (100% to 20%)
+India: Winning percentage has been on rise (0% to 80%)
+Inference: Currently, India has a upper hand in matches against Australia
+
+Fig 2.3 & 2.4  Win Percentage vs Toss (against all teams)
+-
+India: Winning percentage is high whenever the toss is won (74%)
+Australia: Winning percentage remains same irrespective of result of toss (51%)
+Inference: India's chances of winning increases significantly with win of toss
+
+Fig 2.5  Win Percentage vs Toss (against each other)
+-
+Australia: Winning percentage is high whenever the toss is won (62%)
+India: Winning percentage remains same irrespective of result of toss (57%)
+Inference: Australia's chances of winning increases significantly with win of toss
+
+Fig 2.6 & 2.7  Win Percentage vs Innings (against all teams)
+-
+India: Winning percentage increases significantly while batting 2nd (almost 15% than while batting 1st)
+Australia: Winning percentage is high whenever the toss is won (62%)
+Inference: Australia's chances of winning increases significantly with win of toss
+
+Fig 2.5  Win Percentage for Toss win (against each other)
+-
+Australia: Winning percentage is high whenever the toss is won (62%)
+India: Winning percentage remains same irrespective of result of toss (57%)
+Inference: Australia's chances of winning increases significantly with win of toss
+
+Fig 2.5  Win Percentage for Toss win (against each other)
+-
+Australia: Winning percentage is high whenever the toss is won (62%)
+India: Winning percentage remains same irrespective of result of toss (57%)
+Inference: Australia's chances of winning increases significantly with win of toss
+
+Fig 2.5  Win Percentage for Toss win (against each other)
+-
+Australia: Winning percentage is high whenever the toss is won (62%)
+India: Winning percentage remains same irrespective of result of toss (57%)
+Inference: Australia's chances of winning increases significantly with win of toss
+
+Fig 2.5  Win Percentage for Toss win (against each other)
+-
+Australia: Winning percentage is high whenever the toss is won (62%)
+India: Winning percentage remains same irrespective of result of toss (57%)
+Inference: Australia's chances of winning increases significantly with win of toss
+
+
+
